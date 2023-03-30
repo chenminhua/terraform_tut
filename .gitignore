@@ -1,0 +1,6 @@
+.envrc
+.terraform/
+id_rsa
+*.tfstate.backup
+*.tfstate
+*.tfplan
